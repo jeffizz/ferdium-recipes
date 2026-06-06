@@ -1,0 +1,10 @@
+{
+  "id": "v2ex",
+  "name": "v2ex.com",
+  "version": "1.0.1",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://v2ex.com/"
+  },
+  "defaultIcon": "https://cdn.jsdelivr.net/gh/jeffizz/ferdium-recipes@master/v2ex/icon.png"
+}
