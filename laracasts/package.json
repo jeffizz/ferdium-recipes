@@ -1,0 +1,10 @@
+{
+  "id": "laracasts",
+  "name": "laracasts.com",
+  "version": "1.0.1",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://laracasts.com/"
+  },
+  "defaultIcon": "https://cdn.jsdelivr.net/gh/jeffizz/ferdium-recipes@master/laracasts/favicon.ico"
+}
