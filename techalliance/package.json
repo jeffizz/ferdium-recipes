@@ -1,0 +1,10 @@
+{
+  "id": "techalliance",
+  "name": "techalliance.ca",
+  "version": "1.0.1",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://techalliance.ca/techalliance-events/"
+  },
+  "defaultIcon": "https://cdn.jsdelivr.net/gh/jeffizz/ferdium-recipes@master/techalliance/ico.png"
+}
