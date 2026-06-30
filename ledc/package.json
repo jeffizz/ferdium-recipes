@@ -1,0 +1,10 @@
+{
+  "id": "ledc",
+  "name": "ledc.com",
+  "version": "1.0.1",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://ledc.com/"
+  },
+  "defaultIcon": "https://cdn.jsdelivr.net/gh/jeffizz/ferdium-recipes@master/ledc/ledc-fav.png"
+}
